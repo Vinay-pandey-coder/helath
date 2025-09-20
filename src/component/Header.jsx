@@ -7,7 +7,7 @@ const Header = () => {
     <header className="bg-white shadow-md">
       <div className="max-w-7xl mx-auto flex items-center justify-between p-6">
         {/* Logo */}
-        <h1 className="text-3xl font-bold text-gray-800">AIDZO CARW</h1>
+        <h1 className="text-3xl font-bold text-gray-800">ADJO CARE</h1>
 
         {/* Desktop Menu */}
         <nav className="hidden md:flex">
