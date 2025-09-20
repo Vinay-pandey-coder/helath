@@ -15,10 +15,10 @@ const LandingPage = () => {
             range of products and take care of your health with ease.
           </p>
           <div className="flex gap-4">
-            <button className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition">
+            <button className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition cursor-pointer">
               Shop Medicines
             </button>
-            <button className="bg-white border border-blue-600 text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition">
+            <button className="bg-white border border-blue-600 text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition cursor-pointer">
               Learn More
             </button>
           </div>
